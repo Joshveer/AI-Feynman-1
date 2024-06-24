@@ -77,8 +77,8 @@ def test_noise_tolerance(pathdir, filename, noise_levels, BF_try_time=60, BF_ops
 # Main execution
 if __name__ == "__main__":
     pathdir = "../example_data/"
-    filename = "WaterlooEx1.txt"
-    piname = "buckinghamWaterlooEx1.txt"
+    filename = "WaterlooEx2.txt" # Add files here
+    piname = "buckinghamWaterlooEx2.txt"
     noise_levels = [0.01] # Add noise levels to test here
 
     test_noise_tolerance(pathdir, filename, noise_levels)
