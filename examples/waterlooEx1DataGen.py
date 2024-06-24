@@ -22,6 +22,6 @@ pi1 = s/s0
 pi2 = s0*a/(v0**2)
 pi3 = v0*t/s0
 
-data = np.column_stack((pi2, pi3, pi1))
+data_dimensionless = np.column_stack((pi2, pi3, pi1))
 
 np.savetxt('/Volumes/T7/Waterloo/AI-Feynman/example_data/buckinghamWaterlooEx1.txt', data)
