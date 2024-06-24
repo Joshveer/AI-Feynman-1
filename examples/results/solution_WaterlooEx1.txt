@@ -1,0 +1,3 @@
+Test Set Error, Cumulative Log, Complexity, Input Set Error, Symbolic Expression
+3.035946012840936e-06 -18.33401793478506 -1833401.793478506 28.584962500721154 3.0262908209451718e-06 0.000000000000+(x0+(((x3*(x1+(x1-(x3*x2)))))/((0+1)+1)))
+Best Result: Noise Level: 0 | Equation: 0.000000000000+(x0+(((x3*(x1+(x1-(x3*x2)))))/((0+1)+1))) with error of 3.035946012840936e-06 | Solution time: 7126.36 seconds

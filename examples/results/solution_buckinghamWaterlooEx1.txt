@@ -1,0 +1,3 @@
+Test Set Error, Cumulative Log, Complexity, Input Set Error, Symbolic Expression
+7.104711472716626e-06 -16.97685240165456 -1697685.2401654562 17.194602975157967 7.75279311967894e-06 0.500000000000*(((x1*(((x1*(-x0))+1)+1))+1)+1)
+Best Result: Noise Level: 0 | Equation: 0.500000000000*(((x1*(((x1*(-x0))+1)+1))+1)+1) with error of 7.104711472716626e-06 | Solution time: 2835.86 seconds
