@@ -18,20 +18,26 @@ Buckingham π: -0.5π₂π₃² + π₃ + 1
 
 #### Found
 
-Equations found with normal:
+##### Equations found with normal:
 
 Noise Level: 0 | Equation: 0.000000000000+(x0+(((x3*(x1+(x1-(x3*x2)))))/((0+1)+1)))
+
 Noise Level: 0.01 | Equation: 0.000055730232+(x0+(((x3*(x1+(x1-(x3*x2)))))/((0+1)+1)))
+
 Noise Level: 0.05 | Equation: sqrt(0.000452721013*(x2+(x1+x1)))
+
 Noise Level: 0.1 | Equation: asin(1.839030019605+(-sqrt((x3+1))))
 
 where x0 is s0, x1 is v0, x2 is a, & x3 is t
 
-Equations found with Buckingham π:
+##### Equations found with Buckingham π:
 
 Noise Level: 0 | Equation: 0.500000000000*(((x1*(((x1*(-x0))+1)+1))+1)+1)
+
 Noise Level: 0.01 | Equation: 0.500320478519*((x1+((x1*((x1*(-x0))+1))+1))+1)
+
 Noise Level: 0.05 | Equation: 0.501244731139*(((x1*(((x1*(-x0))+1)+1))+1)+1)
+
 Noise Level: 0.1 | Equation: 0.493612853809*(((x1*(((x1*(-x0))+1)+1))+1)+1)
 
 where x0 is π₂ & x1 is π₃
@@ -50,13 +56,13 @@ Buckingham π: π₃ = 2π₂/(π₁)²
 
 #### Found
 
-Equation found with normal:
+##### Equation found with normal:
 
 Noise Level: 0 | Equation: 1.414213562373 * sqrt((x1*(x0/(x4*(x3*x2)))))
 
 where x0 is m, x1 is g, x2 is rho, x3 is Cd, & x4 is A
 
-Equation found with Buckingham π:
+##### Equation found with Buckingham π:
 
 Noise Level: 0 | Equation: 0.000000000000+((x1+x1)/(x0*x0))
 
