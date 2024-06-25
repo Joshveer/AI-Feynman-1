@@ -81,6 +81,5 @@ if __name__ == "__main__":
     piname = "buckinghamWaterlooEx2.txt"
     noise_levels = [0] # Add noise levels to test here
 
-    test_noise_tolerance(pathdir, filename, noise_levels)
     test_noise_tolerance(pathdir, piname, noise_levels)
 
