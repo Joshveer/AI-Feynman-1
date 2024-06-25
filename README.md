@@ -1,5 +1,9 @@
 # AI-Feynman
 
+## Machine Specs
+
+M1 Macbook Pro: 8 Core CPU and 8 Core GPU
+
 ## Performance Graphs
 
 Example 1: BF_try_time=60, BF_ops_file_type="7ops.txt", polyfit_deg=3, NN_epochs=500
