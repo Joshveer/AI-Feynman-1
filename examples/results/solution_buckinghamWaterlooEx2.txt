@@ -1,0 +1,3 @@
+Test Set Error, Cumulative Log, Complexity, Input Set Error, Symbolic Expression
+1.8118504342111766e-07 -22.398304826470554 -2239830.4826470553 14.779565475879123 1.8089992850017228e-07 0.000000000000+((x1+x1)/(x0*x0))
+Best Result: Noise Level: 0 | Equation: 0.000000000000+((x1+x1)/(x0*x0)) with error of 1.8118504342111766e-07 | Solution time: 5275.49 seconds
