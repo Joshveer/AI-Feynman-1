@@ -75,11 +75,11 @@ where x0 is π₁ & x1 is π₂
 
 ## Example 1
 
-It can be clearly noted that Buckingham π implementations tends to be 3-6 times faster than traditional methods. The solution time is consistently smaller than the normal equation data generated files, which tend to grow with more noise. Though both do struggle to represent the true parent equation at various noise tolerances, Buckingham π has significantly less error. It is also interesting to note that while the Buckingham π files also do possess high error, that only because they are being compared to the dataset that has noise. When comparing them to the orginal they are actually were close to each other and represent the parent equation very well.
+It can be clearly noted that Buckingham π implementations tends to be 3-6 times faster than traditional methods. The solution time is consistently smaller than the normal equation data generated files, which tends to grow with more noise. Though both do struggle to represent the true parent equation at various noise tolerances, Buckingham π has significantly less error. It is also interesting to note that while the Buckingham π files also do possess high error, that's only because they are being compared to the dataset that has noise. When comparing them to the orginal they are actually were close to each other and represent the parent equation very well.
 
 ## Example 2
 
-Although the parent equation in this example is considerably more complex leading to larger solution times for both, Buckingham π implementations allowed for there to be less error and marginally faster than the normal data files. With the same notes from the previous example, it can be added that the computational power of the machine will obviously further underline the difference in the times and errors.
+Although the parent equation in this example is considerably more complex leading to larger solution times for both, Buckingham π implementations allow for less error and to be marginally faster than the normal data files. With the same notes from the previous example, it can be added that the computational power of the machine will obviously further underline the difference in the times and errors between the two.
 
 # Citation
 
