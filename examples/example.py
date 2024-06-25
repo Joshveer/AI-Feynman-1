@@ -44,7 +44,7 @@ def add_noise(data, noise_level):
     noise = np.random.normal(0, noise_level * np.abs(data), data.shape)
     return data + noise
 
-def test_noise_tolerance(pathdir, filename, noise_levels, BF_try_time=60, BF_ops_file_type="7ops.txt", polyfit_deg=3, NN_epochs=500):
+def test_noise_tolerance(pathdir, filename, noise_levels, BF_try_time=100, BF_ops_file_type="7ops.txt", polyfit_deg=3, NN_epochs=500):
     original_data = np.loadtxt(os.path.join(pathdir, filename))
     
     for noise_level in noise_levels:
@@ -79,7 +79,7 @@ if __name__ == "__main__":
     pathdir = "../example_data/"
     filename = "WaterlooEx2.txt" # Add files here
     piname = "buckinghamWaterlooEx2.txt"
-    noise_levels = [0.01] # Add noise levels to test here
+    noise_levels = [0] # Add noise levels to test here
 
     test_noise_tolerance(pathdir, filename, noise_levels)
     test_noise_tolerance(pathdir, piname, noise_levels)
