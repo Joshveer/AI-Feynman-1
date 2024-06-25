@@ -2,7 +2,7 @@
 
 ## Performance Graphs
 
-Example 1
+Example 1: BF_try_time=60, BF_ops_file_type="7ops.txt", polyfit_deg=3, NN_epochs=500
 
 ![Performance Graphs](Example1Graphs.png)
 
