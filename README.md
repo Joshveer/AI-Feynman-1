@@ -2,6 +2,8 @@
 
 ## Performance Graphs
 
+Example 1
+
 ![Performance Graphs](Example1Graphs.png)
 
 # Citation
